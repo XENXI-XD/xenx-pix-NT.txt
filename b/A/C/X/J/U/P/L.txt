@@ -1,1 +1,1 @@
-ua
+ua=[FBAN/FB4A;FBAV/341.0.0.30.73;FBBV/326471163;FBDM/{density=2.625,width=1080,height=2198};FBLC/zh_HK;FBRV/0;FBCR/csl.;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A7050;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]=ind
